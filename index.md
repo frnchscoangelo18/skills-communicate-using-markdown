@@ -7,4 +7,8 @@
 
 This is the practice of my markdown
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript 
+var myVar = "Hello, world!";
+```
